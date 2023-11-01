@@ -1,0 +1,3 @@
+## run this commands into your terminal or your project enviromnment terminal before writing code###
+pip install pandas
+pip install numpy
